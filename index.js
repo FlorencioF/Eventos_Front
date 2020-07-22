@@ -33,9 +33,7 @@ function logar(objeto){
     }
     else if(objeto.status === 401){
         document.getElementById("msgResposta").innerHTML = "Senha Inválida";
-
     }
-
     else if (objeto.status === 404){
         document.getElementById("msgResposta").innerHTML = "Usuário Inexistente";
     }
