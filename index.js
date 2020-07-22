@@ -41,7 +41,7 @@ function logar(objeto){
 
 function verificaTecla(event){
 
-    if (event === 13){
+    if (event.keyCode === 13){
         clickBtnEnviar();
     }
 }
