@@ -25,3 +25,19 @@ body {
     padding: 5px;
     border-radius: 5px
 }
+
+#datas{
+    margin: 2%;
+    padding: 5px;
+}
+
+button{
+    margin: 2%;
+    padding: 5px;
+}
+
+#relatorio{
+    margin: 2%;
+    margin-top: 5%;
+    padding: 5px;
+}
